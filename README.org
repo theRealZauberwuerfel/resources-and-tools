@@ -1,0 +1,8 @@
+* resources-and-tools
+  :PROPERTIES:
+  :CUSTOM_ID: resources-and-tools
+  :END:
+
+Some resources and tools I (want to) use regularly or highly recommend
+
+Open the files in your favorite Emacs so you will not be overflowed.

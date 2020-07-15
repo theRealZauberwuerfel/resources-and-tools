@@ -1,0 +1,113 @@
+** ACL2
+  Very mature theorem proving tool in Common Lisp.
+  Used in industry since the 90s for hardware/software verification.
+  Open source, you can of course proof real mathematics with it.
+** Ada
+  This is *THE* safest approach to software design.
+  Used in many critical areas like space engines, planes, defense, ...
+** Agda
+** Akka
+** Arc
+  Build and runnable primarily with Racket, this is an approach
+  to build a Lisp making some things more concise without loosing
+  benefits.
+** Clojure
+  Real Lisp with macros and everything for the JVM.
+  Compiles to bytecode. Has lazy evaluation and things like STM on board.
+  Good for building concurrent stuff, much companies use it.
+*** Ferret
+** Common Lisp
+  It is and stays *THE* most powerful Lisp and programming language in the galaxy.
+  All Lisps are more than just a tool but this is very powerful.
+*** CLOS
+*** Implementations
+**** ABCL
+**** CCL
+**** CLISP
+**** ECL
+**** GCL
+**** LispWorks
+**** SBCL
+**** uLisp
+*** Homoiconicity
+*** Metacircular Interpreter
+*** Metaprogramming
+** Coq
+  Standard tool for proving made in OCaml.
+  Was used for proving the four color theorem.
+** ELisp
+** Elixir
+  Successor of Erlang. Syntax is more normal user friendly and inspired by Ruby.
+  The most powerful web framework in existence, Phoenix, is also in Erlang.
+** Elm
+  The poor mans Haskell.
+** Erlang
+  Soft real-time programming language which dates back to the 80s.
+  Was designed to program highly concurrent systems like telecom switches.
+  Uses message passing for its very lightweight concurrency.
+  Its processes have nothing to do with OS threads.
+  Runs as bytecode on BEAM.
+** F#
+  Functional programming language much like OCaml for .NET platform.
+** FAUST
+  Real time audio signal programming language, build in C++.
+** Guile
+  GNUs Lisp dialect for great interoperability with C code in their software.
+  Also the configuration language for GUIX.
+** Haskell
+  Haskell is *THE* most purely functional programming language and was condensed
+  in 1990. Since then its lambdas guard your types and software.
+  Very mathematical, you can imagine it as Haskell := Typed Lambda Calculus + Category Theory
+  Everything is lazy (non-strict) in default, side effect free and you have an improved Hindley-Milner type
+  checking system. The most standard used compiler is GHC (:= The Glorious Glasgow Haskell
+  Compilation System).
+  As Simon Peyton-Jones once said, Haskell is the most imperative programming language.
+*** Category Theory
+*** Cloud Haskell
+*** Diagrams
+*** Dhall
+*** Lens
+*** LiquidHaskell
+*** Parsec
+*** Quipper
+
+*** Servant
+*** Shake
+** Hy
+  Lisp for Python, good for beginners, much like Clojure.
+** Idris
+  Haskell with first class dependent types.
+** Julia
+  JIT compiled language for high-performance numeric stuff.
+  Parser in femtolisp.
+  Supports also real metaprogramming.
+** LEAN
+  Another theorem proving language.
+** LFE
+  Lisp for BEAM. LFE stands for /Lisp flavored Erlang/.
+** Maxima
+** Newlisp
+** Nix
+  Configuration language for the Nix package management system,
+  NixOS and its other toolset.
+** Ocaml
+** Pony
+  Proven safe concurrency supporting language via actors and message passing. 
+** Racket
+  Good Lisp/Scheme dialect for beginners.
+  Supports continuations as /first class objects/! So time travel is no problem.
+  Much libraries, some kind like in Python and blazingly performant.
+*** Rash
+** Rust
+  Newer programming language for better safety and concurrency.
+  Very near to performance of C/C++ without loosing benefits.
+  You can program high level stuff but even go done to the bits.
+  The type system and its functional aspects are much inspired by
+  Haskell, but has its limits. So in my view it's *OK* I guess.
+** Scala
+** Shen
+** V
+** Verilog
+** VHDL
+** Wolfram Language
+** Zig
